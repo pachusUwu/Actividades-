@@ -1,0 +1,14 @@
+# Normalizacion de finales de linea entre sistemas (Windows / Linux)
+* text=auto
+
+# Codigo fuente: deben viajar con saltos de linea normales
+*.cpp   text diff=cpp
+*.h     text
+*.py    text diff=python
+*.txt   text
+*.md    text
+
+# Archivos binarios: Git NO debe intentar convertirlos
+*.png   binary
+*.pdf   binary
+*.exe   binary

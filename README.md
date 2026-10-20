@@ -1,2 +1,2 @@
-# Actividades-
-Actividades de Laboratorio de Programación (LPR) 5° 3°
+# Actividades
+Repositorio de act de programación Ian Quiroga 5to 3ra

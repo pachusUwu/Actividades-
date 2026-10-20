@@ -1,0 +1,4 @@
+1,Ian Quiroga,Papel,Piedra,Victoria
+2,Ian Quiroga,Piedra,Tijera,Victoria
+3,Ian Quiroga,Tijera,Papel,Victoria
+4,Ian Quiroga,Papel,Piedra,Victoria
